@@ -1,4 +1,5 @@
 About Me:
+
 Hi 👋, I'm Tushar Gupta<br><br>Frontend Developer | React.js | Next.js<br><br>I started my professional journey in a startup environment and gradually developed a strong interest in frontend development.<br>Since then, I've been building React projects, improving my JavaScript skills, and working towards becoming a better fullstack engineer.<br><br>🚀 Tech Stack<br>- HTML5, CSS3, JavaScript (ES6+), TypeScript<br>- React.js, Tailwind CSS<br>- Node.js (Basics), REST APIs<br>- Git, GitHub, VS Code, Postman<br><br>🌱 Currently Learning<br>- Next.js<br>- Full Stack Development<br><br>📫 Connect<br>- 📧 tushargupta1232@gmail.com<br><br><br>⭐Writing better code today than I did yesterday.
 
 
